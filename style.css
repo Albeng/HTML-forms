@@ -5,6 +5,8 @@
 }
 
 body {
+  background-image: url(Wiztopia\ banner.jpg);
+  background-size: cover;
   color: #5d6063;
   background-color: #eaedf0;
   font-family: "Helvetica", "Arial", sans-serif;
